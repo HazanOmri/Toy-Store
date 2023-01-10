@@ -1,0 +1,6 @@
+.toy-preview{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(67, 59, 155);
+    text-align: center;
+}
